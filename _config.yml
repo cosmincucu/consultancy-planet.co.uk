@@ -1,0 +1,35 @@
+# Site settings
+title:
+email:
+description: > # this means to ignore newlines until "baseurl:"
+  IT Consultancy
+  We offer clearly explained help and planning around all aspects of your ICT 
+  with no hidden costs and no technical compromise.
+
+  Get optimised for success
+  Technology is a key differentiator these days but development continues apace. 
+  It’s hard to be sure you’re getting the most from your ICT investment and not 
+  missing that chance to get ahead of the game.
+
+  But it takes time and expertise to know what’s needed. We want to help you.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+# User setting
+owner: Cosmin Cucu
+email: cosmin.cucu@consultancy-planet.co.uk
+facebook_username: cosmincucu
+twitter_username: cosmin_cucu
+github_username: cosmincucu
+address:
+  - line:
+  - line:
+  # Feel free to add more lines here 
+telephone: 07470391780
+copyright: Reserved!
+
+# API settings
+google_api_key:
+
+# Build settings
+markdown: kramdown
